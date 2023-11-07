@@ -2,7 +2,7 @@ opencv-python
 tensorflow-cpu
 tensorflow
 onnx
-onnxruntime
+onnxruntime-gpu
 modelscope
 scikit-image
 matplotlib
